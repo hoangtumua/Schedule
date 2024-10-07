@@ -1,0 +1,63 @@
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\bin\Debug\net8.0-windows\Group8IsUs.exe
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\bin\Debug\net8.0-windows\Group8IsUs.deps.json
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\bin\Debug\net8.0-windows\Group8IsUs.runtimeconfig.json
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\bin\Debug\net8.0-windows\Group8IsUs.dll
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\bin\Debug\net8.0-windows\Group8IsUs.pdb
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group_8.FormAlgorithm.resources
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group_8.FormProcess.resources
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group_8.MainForm.resources
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.Properties.Resources.resources
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.csproj.GenerateResource.cache
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.AssemblyInfo.cs
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.dll
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\refint\Group8IsUs.dll
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.pdb
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.genruntimeconfig.cache
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\ref\Group8IsUs.dll
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group_8.FormThread.resources
+C:\Users\ADMIN\Pictures\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group_8.Chat.resources
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\bin\Debug\net8.0-windows\Group8IsUs.exe
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\bin\Debug\net8.0-windows\Group8IsUs.deps.json
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\bin\Debug\net8.0-windows\Group8IsUs.runtimeconfig.json
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\bin\Debug\net8.0-windows\Group8IsUs.dll
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\bin\Debug\net8.0-windows\Group8IsUs.pdb
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group_8.Chat.resources
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group_8.FormAlgorithm.resources
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group_8.FormProcess.resources
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group_8.FormThread.resources
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group_8.MainForm.resources
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.dll
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\refint\Group8IsUs.dll
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.pdb
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Nguyên Lý Hệ Điều Hành\Nhóm 8\Báo Cáo Chương 2 - Nhóm 8 NLHĐH 63CNTT3\Group 8_Chapter2\BTL_CHUONG2\obj\Debug\net8.0-windows\ref\Group8IsUs.dll
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\bin\Debug\net8.0-windows\Group8IsUs.exe
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\bin\Debug\net8.0-windows\Group8IsUs.deps.json
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\bin\Debug\net8.0-windows\Group8IsUs.runtimeconfig.json
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\bin\Debug\net8.0-windows\Group8IsUs.dll
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\bin\Debug\net8.0-windows\Group8IsUs.pdb
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\obj\Debug\net8.0-windows\Group_8.Chat.resources
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\obj\Debug\net8.0-windows\Group_8.FormAlgorithm.resources
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\obj\Debug\net8.0-windows\Group_8.FormProcess.resources
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\obj\Debug\net8.0-windows\Group_8.FormThread.resources
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\obj\Debug\net8.0-windows\Group_8.MainForm.resources
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.dll
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\obj\Debug\net8.0-windows\refint\Group8IsUs.dll
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.pdb
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\obj\Debug\net8.0-windows\Group8IsUs.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Group 8_Chapter2 Fix\BTL_CHUONG2\obj\Debug\net8.0-windows\ref\Group8IsUs.dll
